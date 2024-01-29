@@ -33,7 +33,7 @@ body {
 	right: 100px;
 }
 #hot {
-	background-color: rgba(255, 0, 0, 0.775);
+	background-color: rgb(255, 28, 28);
 	width: 20px;
 	height: 0;
 	position: absolute;
@@ -44,12 +44,12 @@ body {
 	
 }
 #cold {
-	background-color: rgba(32, 99, 255, 0.784);
+	background-color: rgb(32, 99, 255);
 	width: 20.1px;
 	height: 0;
 	position: absolute;
 	right: 47px;
-	bottom: 75px;
+	bottom: 95px;
 	z-index: 10;
 	border-radius: 4px;
 
